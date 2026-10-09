@@ -41,7 +41,7 @@ pip install numpy pandas matplotlib
 
 Lancez simplement le script principal pour voir le K-Means en action :
 ```bash
-python k_means_2.py
+python k_means.py
 ```
 
 Le script affichera la progression du taux de classification dans le terminal (pour le dataset Iris) et générera une fenêtre graphique avec le résultat du clustering (pour le dataset Student).
